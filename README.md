@@ -1,2 +1,0 @@
-# QB-Framework
-Qbus Base
